@@ -94,5 +94,5 @@ This project performs exploratory data analysis (EDA) on the **Heart Attack Pred
 
 ## Contributors
 
-- [Your Name] (Optional)
+- Tanishq Sharma-23112104
 
